@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">434-Health-App</string>
+    <string name="title_activity_goals_">Goals_Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="check_in_1">Mental</string>
+    <string name="check_in_2">Physical</string>
+    <string name="check_in_3">Nutritional</string>
+    <string name="current_goals">Your current goals</string>
+    <string name="add_new_goal">Add a new goal</string>
+    <string name="chosen_goal">What kind of goal would you like to set?</string>
+    <string name="check_in_question">What goal are you currently working on?</string>
+    <string name="features"> Ways Rooted Health can help: </string>
+    <string name="mental_tracking">How are you feeling today?</string>
+    <string name="new_mental_goal">How would you like to improve your mental health?</string>
+    <string name="reduce_stress">Reduce Stress</string>
+    <string name="build_confidence">Build Confidence</string>
+
+    <string name="exercise">Which type of exercise did you do today?</string>
+    <string name="walking_exercise">Walking</string>
+    <string name="jogging_exercise">Jogging</string>
+    <string name="cycling_exercise">Cycling</string>
+    <string name="squats_exercise">Squats</string>
+    <string name="pushups_exercise">Push-ups</string>
+    <string name="jumping_jacks_exercise">Jumping Jacks</string>
+    <string name="current_weight">What is your weight today?</string>
+    <string name="submit_btn">SUBMIT</string>
+
+    <string name="calories_check">Enter the amount of calories for this meal.</string>
+    <string name="breakfast_check">Enter what you had for breakfast here.</string>
+    <string name="lunch_check">Enter what you had for lunch here.</string>
+    <string name="dinner_check">Enter what you had for dinner here.</string>
+
+    <string name="confidence_featuresa1"> &#8226; Words of Affirmation </string>
+    <string name="confidence_featuresa2"> &#8226; Daily reminders to challenge yourself </string>
+    <string name="confidence_featuresa3"> &#8226; Send you articles of ways to improve yourself </string>
+
+    <string name="confidence_featuresb1"> Words of Affirmation </string>
+    <string name="confidence_featuresb2"> Daily reminders to challenge yourself </string>
+    <string name="confidence_featuresb3"> Send you articles of ways to improve yourself </string>
+
+    <string name="stress_features1"> &#8226; Reminder to take breaks </string>
+    <string name="stress_features2"> &#8226; Hourly reminders to drink water </string>
+    <string name="stress_features3"> &#8226; Send you calming videos </string>
+
+    <string name="stress_features1b"> Reminder to take breaks </string>
+    <string name="stress_features2b"> Hourly reminders to drink water </string>
+    <string name="stress_features3b"> Send you calming videos </string>
+
+    <string name="one_scale">Everything is a-Okay!</string>
+    <string name="two_scale">Things are bothering me, but im coping.</string>
+    <string name="three_scale">My mental health today really impacted my day.</string>
+    <string name="four_scale">I feel miserable and nothings getting better.</string>
+    <string name="five_scale">I feel like I reached an all time low today. </string>
+    <string name="select_mood">Select a button on the right to match how you feel. </string>
+
+
+    <string name="new_physical_goal">How would you like to improve your physical health?</string>
+    <string name="lose_weight">Lose Weight</string>
+    <string name="build_muscle">Build Muscle</string>
+
+    <string name="weight_features1"> &#8226; Weight loss tips </string>
+    <string name="weight_features2"> &#8226; Daily reminders to exercise </string>
+    <string name="weight_features3"> &#8226; Words of encouragement </string>
+
+    <string name="weight_features1b"> Weight loss tips </string>
+    <string name="weight_features2b"> Daily reminders to exercise </string>
+    <string name="weight_features3b"> Words of encouragement </string>
+
+    <string name="muscle_features1"> &#8226; Recommend specific exercises for targeted areas </string>
+    <string name="muscle_features2"> &#8226; Reminders to eat every 3 hours </string>
+    <string name="muscle_features3"> &#8226; Suggest post-workout meals &amp; supplements </string>
+
+    <string name="muscle_features1b"> Recommend specific exercises for targeted areas </string>
+    <string name="muscle_features2b"> Reminders to eat every 3 hours </string>
+    <string name="muscle_features3b"> Suggest post-workout meals &amp; supplements </string>
+
+
+    <string name="new_nutrition_goal">How would you like to improve your nutrition health?</string>
+    <string name="improve_cooking">Improve cooking</string>
+    <string name="healthy_eating">Healthy eating</string>
+
+    <string name="cooking_features1"> &#8226; Reminders to cook instead of eating out </string>
+    <string name="cooking_features2"> &#8226; Send you healthy and testy recipes </string>
+    <string name="cooking_features3"> &#8226; Cooking tutorials </string>
+
+    <string name="cooking_features1b"> Reminders to cook instead of eating out </string>
+    <string name="cooking_features2b"> Send you healthy and testy recipes </string>
+    <string name="cooking_features3b"> Cooking tutorials </string>
+
+    <string name="eating_features1"> &#8226; Recommend foods to avoid </string>
+    <string name="eating_features2"> &#8226; Set calorie limits </string>
+    <string name="eating_features3"> &#8226; Reminder to drink water &amp; avoid snacking </string>
+
+    <string name="eating_features1b"> Recommend foods to avoid </string>
+    <string name="eating_features2b"> Set calorie limits </string>
+    <string name="eating_features3b"> Reminder to drink water &amp; avoid snacking </string>
+
+    <string name="which_features"> Which features would you like?</string>
+
+</resources>

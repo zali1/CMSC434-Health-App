@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.a434_health_app">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Nutri_Checkin"></activity>
+        <activity android:name=".Physical_Checkin" />
+        <activity android:name=".ProgressGarden" />
+        <activity android:name=".Nutrition_Goal" />
+        <activity android:name=".Physical_Goal" />
+        <activity android:name=".Mental_Goal" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".Checkin_Activity" />
+        <activity android:name=".Mental_Checkin" />
+        <activity android:name=".Profile_Activity" />
+        <activity
+            android:name=".Set_Muscle_Goal_Popup"
+            android:theme="@style/AppTheme.popupTheme" />
+        <activity
+            android:name=".Set_Weight_Goal_Popup"
+            android:theme="@style/AppTheme.popupTheme" />
+        <activity
+            android:name=".Set_Eating_Goal_Popup"
+            android:theme="@style/AppTheme.popupTheme" />
+        <activity
+            android:name=".Set_Cooking_Goal_popup"
+            android:theme="@style/AppTheme.popupTheme" />
+        <activity
+            android:name=".Set_Confidence_Goal_popup"
+            android:theme="@style/AppTheme.popupTheme" />
+        <activity
+            android:name=".Set_Stress_Goal_popup"
+            android:theme="@style/AppTheme.popupTheme" />
+        <activity
+            android:name=".Goals_Activity"
+            android:label="@string/title_activity_goals_" />
+        <activity
+            android:name=".activity_types_of_goals"
+            android:label="activity_types_of_goals" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
